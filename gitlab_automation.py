@@ -3,7 +3,7 @@ import time
 import os
 
 # Constants
-GITLAB_URL = "https://gitlab.com"  # Replace with your GitLab instance URL
+GITLAB_URL = "https://gitlab.com/dashboard/groups"  # Replace with your GitLab instance URL
 ACCESS_TOKEN = "glpat-SZqaMSoycDHc5zb45zsn"
 GROUP_NAME_PREFIX = "AutomatedGroup"
 PROJECT_NAME = "AutomatedProject"
