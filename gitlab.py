@@ -11,6 +11,7 @@ FILES_TO_UPLOAD = [
     "rrn.py",
     "config.py",
     "ranbal",
+    "keep_alive.py",
     "gitlab_ci_yml"
 ]  # Paths to your files
 RUNTIME_LIMIT = 6 * 60 * 60  # 6 hours in seconds
